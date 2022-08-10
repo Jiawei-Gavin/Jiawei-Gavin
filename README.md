@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jiawei-Gavin
 - 👀 I’m interested in games
-- 🌱 I’m currently learning Advanced Computing at KCL
+- 🌱 ~~I’m currently learning Advanced Computing at KCL~~
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
